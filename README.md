@@ -11,6 +11,4 @@ Update made on orignal file:
 2.css file  arrange allarticle and section so easy to undrstand 
 3.all image  added  alt attribute 
 
-
  
-
